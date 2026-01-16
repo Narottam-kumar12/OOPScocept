@@ -32,7 +32,7 @@ class chatbook:
         else:
             pass
 
-obj = chatbook()
+#obj = chatbook()
 
 
 
